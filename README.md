@@ -1,2 +1,3 @@
 # JavaScriptProjects
- Demonstration of JavaScript Projects
+ Demonstration of HTML, CSS and JavaScript Projects.
+ 
