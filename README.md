@@ -1,2 +1,2 @@
-# Axiom Full Stack Developer Batch 1 Module A
- This is the code repository for all code for Module A
+# JavaScriptProjects
+ This repository will contain 20 projects developed with HTML, CSS, and JavaScript.
